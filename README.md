@@ -199,6 +199,10 @@ python visualization/visualization.py
 
 ---
 
+## The interactive Power BI dashboard is available in
+
+![Power BI](powerbi/League_of_Legends_Analytics.pbix)
+
 # 💡 Business Value
 
 This dashboard helps to:
